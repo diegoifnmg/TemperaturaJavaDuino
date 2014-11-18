@@ -1,4 +1,4 @@
 TemperaturaJavaDuino
 ====================
 
-Biblioteca RXTX: http://rxtx.qbang.org/wiki/index.php/Main_Page
+Biblioteca RXTX: https://drive.google.com/file/d/0B7HhsuKACZUIcVd3VmZLcG1NZzA/view?usp=sharing
